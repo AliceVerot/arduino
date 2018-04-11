@@ -12,5 +12,5 @@ void setup()
 void loop()
 {
     static int potPosition;
-    potPosition = analogRead(A1);
+    potPosition = analogRead(A3);
 }
